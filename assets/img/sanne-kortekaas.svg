@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" width="320" height="320" role="img" aria-label="Illustratie van Sanne Kortekaas, hoofdredactrice">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f3d9dc"/>
+      <stop offset="100%" stop-color="#c9a15a"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="160" cy="160" r="160" fill="url(#bg2)"/>
+
+  <!-- shoulders -->
+  <path d="M95 265 Q160 222 225 265 L238 320 L82 320 Z" fill="#6e2f3e"/>
+  <path d="M112 248 Q160 278 208 248 L208 278 Q160 302 112 278 Z" fill="#fdf1e8"/>
+
+  <!-- hair back, long wavy -->
+  <path d="M84 150 Q76 250 120 270 Q100 200 106 150 Q95 150 84 150 Z" fill="#5a3825"/>
+  <path d="M236 150 Q244 250 200 270 Q220 200 214 150 Q225 150 236 150 Z" fill="#5a3825"/>
+
+  <!-- neck -->
+  <rect x="140" y="194" width="40" height="34" rx="14" fill="#f3c9a3"/>
+
+  <!-- face -->
+  <ellipse cx="160" cy="148" rx="60" ry="66" fill="#f6d3ac"/>
+
+  <!-- ears -->
+  <circle cx="101" cy="150" r="9" fill="#f3c9a3"/>
+  <circle cx="219" cy="150" r="9" fill="#f3c9a3"/>
+
+  <!-- hair top, side-swept fringe -->
+  <path d="M96 136 Q88 74 160 68 Q232 74 224 136 Q222 92 160 90 Q98 92 96 136 Z" fill="#6b4527"/>
+  <path d="M96 118 Q120 96 160 96 Q140 108 116 132 Q104 126 96 118 Z" fill="#6b4527"/>
+
+  <!-- eyebrows -->
+  <path d="M124 138 q14 -7 26 -1" stroke="#5a3825" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M170 137 q14 -6 26 0" stroke="#5a3825" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <!-- eyes -->
+  <ellipse cx="137" cy="152" rx="5" ry="4" fill="#3a2a1e"/>
+  <ellipse cx="183" cy="152" rx="5" ry="4" fill="#3a2a1e"/>
+
+  <!-- lashes accent -->
+  <path d="M131 148 q6 -4 11 -1" stroke="#3a2a1e" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M178 147 q6 -3 11 1" stroke="#3a2a1e" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- blush -->
+  <ellipse cx="124" cy="172" rx="10" ry="6" fill="#e8879a" opacity="0.55"/>
+  <ellipse cx="196" cy="172" rx="10" ry="6" fill="#e8879a" opacity="0.55"/>
+
+  <!-- nose -->
+  <path d="M160 155 q4 11 -2 17" stroke="#d99a72" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- lips -->
+  <path d="M138 186 Q160 200 182 186 Q160 198 138 186 Z" fill="#b5566b"/>
+
+  <!-- earrings -->
+  <circle cx="101" cy="162" r="3" fill="#c9a15a"/>
+  <circle cx="219" cy="162" r="3" fill="#c9a15a"/>
+</svg>
